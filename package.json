@@ -1,0 +1,27 @@
+{
+  "name": "dictmanager",
+  "version": "0.0.1",
+  "description": "Manages dictionaries for Pasquale",
+  "main": "src/dictmanager.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pasquale-inc/dictmanager.git"
+  },
+  "author": "Ciro S. Costa <ciro9758@gmail.com> (http://www.cirocosta.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pasquale-inc/dictmanager/issues"
+  },
+  "scripts": {
+  	"test": "mocha test"
+  },
+  "homepage": "https://github.com/pasquale-inc/dictmanager",
+  "dependencies": {
+    "download": "^0.1.18",
+    "humanb": "0.0.3",
+    "q": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.3"
+  }
+}
